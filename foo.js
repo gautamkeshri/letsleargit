@@ -1,1 +1,2 @@
-Foo File for testing
+Foo File for test
+New file for testing
